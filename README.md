@@ -135,3 +135,6 @@ More about me
 [painted blog]:http://www.paintedltd.co.uk
 [Johnson and Wales University]:http://www.jwu.edu
 [Amazon Web Services]:http://aws.amazon.com
+[Talent Hacked]:http://talent-hacked.herokuapp.com/
+[Pinstagram]:http://pinstagram2.herokuapp.com/
+[Takeaway]:https://github.com/painted/takeaway
