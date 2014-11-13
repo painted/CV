@@ -7,7 +7,7 @@ Code Examples
 
 | [Talent Hacked] | [Pinstagram] | [Takeaway] | [Food Ups]
 | ------------- | ------------ | ---------- | -----------
-| Talent Hacked is a project management business, connecting developers that have the right skills to clients with project demands. 100% test driven and built in 10 days as a final project at Makers Academy. | Pinstagram is an app similar to Instagram which uses RSpec, Ruby, Rails, WebSockets, Postgresql, Stripe, Devise, etc. | Takeaway is a test driven Object Oriented exercise designed to simulate a cocktail takeaway ordering system using Ruby, RSpec, CSV and sending SMS text message confirmations through Twilio. | Food Ups is my current project that I am co-writing with [Federico Maffei] to help food trucks, pop ups and events increase visibility |
+| Talent Hacked is a project management business, connecting developers that have the right skills to clients with project demands. 100% test driven and built in 10 days as a final project at Makers Academy. | Pinstagram is an app similar to Instagram which uses RSpec, Ruby, Rails, WebSockets, Postgresql, Stripe, Devise, etc. | Takeaway is a test driven Object Oriented exercise designed to simulate a cocktail takeaway ordering system using Ruby, RSpec, CSV and sending SMS text message confirmations through Twilio. | Food Ups is my current project that I am co-writing with [Federico Maffei] to help food trucks, pop ups and events increase visibility. |
 
 Web and Software Development
 ----------------------------
