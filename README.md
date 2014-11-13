@@ -1,6 +1,6 @@
 Will Allen
 ===========
-A junior level Software Developer with a background in Culinary Arts, Tattoo, Graphic Design, Import/Export and Marketing Consulting. Native English speaker fluent in Brazilian Portuguese. Passionate about food, art and family. Grew up in the US but was educated in the UK. I spent the last 11 years in Brazil running and managing import/export companies.  I decided to move back to the UK and change career.  First, I tried my hand out at Objective C and iPhone/iPad software development at [Steer] and once I felt comfortable I took the 12 week Intensive Web Development Course at [Makers Academy]. [Read my code] on GitHub.
+A Software Developer and Social Media Guru with a background in Culinary Arts, Tattoo, Graphic Design, Import/Export and Marketing Consulting. Native English speaker fluent in Brazilian Portuguese. Passionate about food, art and family. Grew up in the US but was educated in the UK. I spent the last 11 years in Brazil running and managing import/export companies.  I decided to move back to the UK and change career.  First, I tried my hand out at Objective C and iPhone/iPad software development at [Steer] and once I felt comfortable I took the 12 week Intensive Web Development Course at [Makers Academy]. [Read my code] on GitHub.
 
 Code Examples
 -------------
