@@ -122,16 +122,16 @@ More about me
 
 - Email: will.allen@paintedltd.co.uk
 - Phone: +44 7753 192 332
-- Blog: [painted blog]
-- Twitter: [@paintedltd]
-- Instagram: [paintedltd]
+- Blog: [painted blog] (Deprecated)
+- Twitter: [painted twitter]
+- Instagram: [painted instagram]
 
 
 [Read my code]:http://github.com/painted
 [Makers Academy]:http://www.makersacademy.com
 [Steer]:http://www.steer.me
-[@paintedltd]:http://www.twitter.com/paintedltd
-[paintedltd]:http://instagram.com/paintedltd
+[painted twitter]:http://www.twitter.com/paintedltd
+[painted instagram]:http://instagram.com/paintedltd
 [painted blog]:http://www.paintedltd.co.uk
 [Johnson and Wales University]:http://www.jwu.edu
 [Amazon Web Services]:http://aws.amazon.com
