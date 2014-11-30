@@ -64,7 +64,7 @@ Experience
 - Oversaw all imports, purchasing, sales (wholesale, retail and internet), government contracts and marketing.
 - Became exclusive authorized importer of Tri-Tronics, Midnight Pet Products and Resco Products.
 - Became authorized importer of PetMate, Kong, Redline K9 and other brands.
-- Created company eCommerce website and managed sales through MercadoLivre.
+- Created company eCommerce website using OsCommerce and managed sales through MercadoLivre.
 
 ### A.W.B.A. Inc, New York, NY, USA
 ##### President: October 2005-present
@@ -113,7 +113,7 @@ Interests
 Awards and Hobbies
 ------------------
 
-- #1 Basenji Breeder 2011 & 2012 (Ranking DogShow), #1 Whippet 2009 (#6 All Breed 2009 All Rankings)
+- #1 Basenji Breeder 2011 & 2012 (Ranking DogShow), #1 Whippet 2009 (#6 All Breed 2009 All Rankings). Created the kennel's website with Joomla.
 - Member of the Board of Directors of the Kennel Club Capixaba.
 - Captain of Bridge Team at Harrow School in England at age 13.
 
