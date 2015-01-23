@@ -122,7 +122,7 @@ More about me
 
 - Email: will.allen@paintedltd.co.uk
 - Phone: +44 7753 192 332
-- Blog: [painted blog] (Deprecated)
+- Blog: [painted blog]
 - Twitter: [painted twitter]
 - Instagram: [painted instagram]
 
